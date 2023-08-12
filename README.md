@@ -1,6 +1,6 @@
 ## Projects in ArtiCares
 
 Projects:
-1. GERI project (errorful learning)
-2. Robotic home-therapy feasibility study
-3. Schema for gaming data
+1. Errorful learning study (GeCog)
+2. Robotic home-therapy feasibility study (RoboHome)
+3. Schema for gaming data (hman-database)
