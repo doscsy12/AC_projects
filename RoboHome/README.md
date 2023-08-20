@@ -35,14 +35,14 @@ The results indicate that a home-based therapy with a robotic device through exe
 
 | notebook/ sample sql codes             | description |
 |-------------------------|--------------|
-| [P001_result](https://github.com/doscsy12/robotic_hometherapy/blob/main/P001_result.sql)             | query variables from TFDM table only of specific player |
-| [P001_join](https://github.com/doscsy12/robotic_hometherapy/blob/main/P001_join.sql)               | query session data from joined GSM and TFDM tables |
-| [clean_process](https://github.com/doscsy12/robotic_hometherapy/blob/main/Clean_process.ipynb)           | clean and process data for EDA |
-| [EDA](https://github.com/doscsy12/robotic_hometherapy/blob/main/EDA.ipynb)                     | analysis using P01 as sample data |
-| [EDA_summary](https://github.com/doscsy12/robotic_hometherapy/blob/main/EDA_summary.ipynb)             | comparison between participants in Kf, velocity, clinical assessments, etc |
-| [data_compare](https://github.com/doscsy12/robotic_hometherapy/blob/main/data_compare.ipynb)            | compare cloud-derived and database data|
-| [find_start_end_times](https://github.com/doscsy12/robotic_hometherapy/blob/main/find_start_end_times.ipynb)    | start/end times from database in python  |
-| [extract_original_session](https://github.com/doscsy12/robotic_hometherapy/blob/main/extract_original_session.ipynb)    | extract sessionID from TFDM table |
+| [P001_result](https://github.com/doscsy12/AC_projects/blob/main/RoboHome/P001_result.sql)             | query variables from TFDM table only of specific player |
+| [P001_join](https://github.com/doscsy12/AC_projects/blob/main/RoboHome/P001_join.sql)               | query session data from joined GSM and TFDM tables |
+| [clean_process](https://github.com/doscsy12/AC_projects/blob/main/RoboHome/Clean_process.ipynb)           | clean and process data for EDA |
+| [EDA](https://github.com/doscsy12/AC_projects/blob/main/RoboHome/EDA.ipynb)                     | analysis using P01 as sample data |
+| [EDA_summary](https://github.com/doscsy12/AC_projects/blob/main/RoboHome/EDA_summary.ipynb)             | comparison between participants in Kf, velocity, clinical assessments, etc |
+| [data_compare](https://github.com/doscsy12/AC_projects/blob/main/RoboHome/data_compare.ipynb)            | compare cloud-derived and database data|
+| [find_start_end_times](https://github.com/doscsy12/AC_projects/blob/main/RoboHome/find_start_end_times.ipynb)    | start/end times from database in python  |
+| [extract_original_session](https://github.com/doscsy12/AC_projects/blob/main/RoboHome/extract_original_session.ipynb)    | extract sessionID from TFDM table |
 | [Tableau](https://public.tableau.com/views/chisel-usage/Dashboard12?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)    | time usage  |
 | [preprint](https://doi.org/10.13140/RG.2.2.11104.56323)   | preprint of early-stage research |
 
