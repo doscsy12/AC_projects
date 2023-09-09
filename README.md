@@ -1,5 +1,4 @@
-## Projects in ArtiCares
-
+## Projects at NTU/ Articares
 Projects:
 1. Errorful learning study (GeCog)
 2. Robotic home-therapy feasibility study (RoboHome)
