@@ -1,4 +1,4 @@
-## ARISE-GERI project
+## Evaluating Dual-Task Exergaming for Cognitive and Motor Training in Older Adults
 
 ### Background
 Ageing is often associated with cognitive and motor decline, which affects the quality of life of the elderly. Many previous studies have demonstrated that it is possible to improve cognitive function with the use of dual-task training. Dual-tasking is defined as the combination of motor and cognitive tasks, such as, walking while counting backwards. Naturally, improvements differ with the type of training tasks. While positive results have been reported, more research is required to uncover which types of dual-task training is most effective. 
