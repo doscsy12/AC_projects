@@ -36,5 +36,5 @@ Thus, one objective here is to investigate the effect of a single haptic interve
 |[summary_trials](https://github.com/doscsy12/AC_projects/blob/main/GeCog/summary_trials.ipynb) | compare performance in assessment trials of ALL participants |
 |[summary_imi](https://github.com/doscsy12/AC_projects/blob/main/GeCog/summary_imi.ipynb) | incomplete segregation/analysis of IMI scores | 
 | [Tableau](https://public.tableau.com/app/profile/sook.yee/viz/Dataofparticipant9/Dashboard1)     | sample dashboard of one participant      |
-| [preprint](https://doi.org/10.13140/RG.2.2.11635.40484)    | preprint of early-stage research    |
+| [preprint] | preprint of early-stage research    |
 

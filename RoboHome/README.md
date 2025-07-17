@@ -44,7 +44,7 @@ The results indicate that a home-based therapy with a robotic device through exe
 | [find_start_end_times](https://github.com/doscsy12/AC_projects/blob/main/RoboHome/find_start_end_times.ipynb)    | start/end times from database in python  |
 | [extract_original_session](https://github.com/doscsy12/AC_projects/blob/main/RoboHome/extract_original_session.ipynb)    | extract sessionID from TFDM table |
 | [Tableau](https://public.tableau.com/views/chisel-usage/Dashboard12?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)    | time usage  |
-| [preprint](https://doi.org/10.13140/RG.2.2.11104.56323)   | preprint of early-stage research |
+| [preprint] | preprint of early-stage research |
 
 <br> if notebooks get too large to render, refer to [nbviewer](https://nbviewer.org/)  for viewing.
 
